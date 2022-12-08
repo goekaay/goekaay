@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @goekaay
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+# 👋 Hi, I’m Gökay
+- 👀 I’m interested in Full Stack Developer
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me? g.nafizgurdal@gmail.com
 
 <!---
