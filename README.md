@@ -1,19 +1,49 @@
-<h1 align="center">Hi 👋, I'm Gökay</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+# Hello 👋, I'm Gökay Nafiz Gürdal
+### Full Stack Dev.
 
-- 📫 How to reach me **g.nafizgurdal@gmail.com**
+Software Engineer with hands-on experience in mobile, web, and backend development. I have worked on enterprise-scale projects involving Android, React, React Native, Spring Boot, PostgreSQL, and inventory management systems.
 
-<h3 align="left">Connect with me:</h3>
+During my professional career, I contributed to the development of mobile applications, inventory management platforms, and backend services, while collaborating with cross-functional teams to deliver reliable and scalable solutions.
+
+I enjoy building products that solve real-world problems and continuously improving my skills in software architecture, full-stack development, and modern technologies.
+
+Interests
+
+Full-Stack Development
+Mobile Application Development
+Software Architecture
+Cloud Technologies
+UI/UX Design
+Astronomy
+
+📍 Based in İzmir, Türkiye.
+
+## Contact Me
+<p><a href="www.linkedin.com/in/goekaay" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
+
+## Skills
+
 <p align="left">
-<a href="https://codepen.io/goekaay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="goekaay" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/goekaay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="goekaay" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20734407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20734407" height="30" width="40" /></a>
-<a href="https://instagram.com/goekaay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="goekaay" height="30" width="40" /></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+## GitHub Stats
 
+<img src="https://github-readme-stats.vercel.app/api?username=goekaay&show_icons=true&count_private=true&theme=dark" alt="GitHub İstatistikleri" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goekaay&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=goekaay&theme=dark" alt="GitHub Streak" />
+
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=goekaay" alt="trophy" />
 
 
 <!---
