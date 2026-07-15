@@ -16,7 +16,7 @@ Cloud Technologies
 UI/UX Design
 Astronomy
 
-📍 Based in İzmir, Türkiye.
+📍 Based in İzmir/Ankara, Türkiye.
 
 ## Contact Me
 <p><a href="www.linkedin.com/in/goekaay" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
